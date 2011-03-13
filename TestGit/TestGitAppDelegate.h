@@ -12,6 +12,7 @@
 
 @interface TestGitAppDelegate : NSObject <UIApplicationDelegate> {
     int abc;
+    int def;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
