@@ -1,7 +1,7 @@
 //
 //  TestGitAppDelegate.h
 //  TestGit
-//
+//   
 //  Created by Spark on 11-3-13.
 //  Copyright 2011年 Mokard. All rights reserved.
 //
@@ -11,7 +11,7 @@
 @class TestGitViewController;
 
 @interface TestGitAppDelegate : NSObject <UIApplicationDelegate> {
-
+    int abc;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;

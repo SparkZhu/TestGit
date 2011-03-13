@@ -23,14 +23,14 @@
 		DBDBB19E132CCD620007B0FF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DBDBB1A0132CCD620007B0FF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DBDBB1A2132CCD620007B0FF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DBDBB1A6132CCD620007B0FF /* TestGit-Info.plist */ = {isa = PBXFileReference; path = "TestGit-Info.plist"; sourceTree = "<group>"; };
+		DBDBB1A6132CCD620007B0FF /* TestGit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGit-Info.plist"; sourceTree = "<group>"; };
 		DBDBB1A8132CCD620007B0FF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DBDBB1AA132CCD620007B0FF /* TestGit-Prefix.pch */ = {isa = PBXFileReference; path = "TestGit-Prefix.pch"; sourceTree = "<group>"; };
+		DBDBB1AA132CCD620007B0FF /* TestGit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGit-Prefix.pch"; sourceTree = "<group>"; };
 		DBDBB1AB132CCD620007B0FF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DBDBB1AD132CCD620007B0FF /* TestGitAppDelegate.h */ = {isa = PBXFileReference; path = TestGitAppDelegate.h; sourceTree = "<group>"; };
+		DBDBB1AD132CCD620007B0FF /* TestGitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGitAppDelegate.h; sourceTree = "<group>"; };
 		DBDBB1AE132CCD620007B0FF /* TestGitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitAppDelegate.m; sourceTree = "<group>"; };
 		DBDBB1B1132CCD620007B0FF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		DBDBB1B3132CCD620007B0FF /* TestGitViewController.h */ = {isa = PBXFileReference; path = TestGitViewController.h; sourceTree = "<group>"; };
+		DBDBB1B3132CCD620007B0FF /* TestGitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGitViewController.h; sourceTree = "<group>"; };
 		DBDBB1B4132CCD620007B0FF /* TestGitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitViewController.m; sourceTree = "<group>"; };
 		DBDBB1B7132CCD620007B0FF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TestGitViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
